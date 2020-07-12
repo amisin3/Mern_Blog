@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://amit123:amit123@blogconnector-z5fax.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret"
+}
