@@ -16,7 +16,7 @@
     "@ckeditor/ckeditor5-build-classic": "^20.0.0",
     "@ckeditor/ckeditor5-react": "^2.1.0",
     "bcryptjs": "^2.4.3",
-    "config": "^3.3.0",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "gravatar": "^1.8.0",
